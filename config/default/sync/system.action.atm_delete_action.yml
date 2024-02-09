@@ -1,0 +1,13 @@
+uuid: dec1b2a2-7e96-4c5e-b70e-3fb2a21ac53d
+langcode: pl
+status: true
+dependencies:
+  module:
+    - atm
+_core:
+  default_config_hash: muWOWvuUx3_cVKNSg5L76K7UgpBOzr4pRVEaoXQAMEQ
+id: atm_delete_action
+label: 'Delete atms'
+type: atm
+plugin: 'entity:delete_action:atm'
+configuration: {  }

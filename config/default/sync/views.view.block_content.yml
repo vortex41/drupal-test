@@ -8,7 +8,7 @@ dependencies:
 _core:
   default_config_hash: jvd5Pu6jy-lra4oMr-mR7zuY6CVDv9CaNeoj0Y70gV4
 id: block_content
-label: 'Custom block library'
+label: 'Biblioteka własnych bloków'
 module: views
 description: 'Znajdź i zarządzaj własnymi blokami.'
 tag: default
@@ -21,7 +21,7 @@ display:
     display_plugin: default
     position: 0
     display_options:
-      title: 'Custom block library'
+      title: 'Biblioteka własnych bloków'
       fields:
         info:
           id: info
@@ -526,7 +526,7 @@ display:
       path: admin/structure/block/block-content
       menu:
         type: tab
-        title: 'Custom block library'
+        title: 'Biblioteka własnych bloków'
         description: ''
         weight: 0
         menu_name: admin

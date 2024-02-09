@@ -1,0 +1,14 @@
+administer atm types:
+  title: 'Administer atm types'
+  description: 'Maintain the types of atm entity.'
+  restrict access: true
+delete atm:
+  title: 'Delete atm'
+create atm:
+  title: 'Create atm'
+view atm:
+  title: 'View atm'
+edit atm:
+  title: 'Edit atm'
+import atm:
+  title: 'Import atm'

@@ -1,0 +1,13 @@
+uuid: c43de5b7-331e-4ec9-b072-5b46c6b8b684
+langcode: pl
+status: true
+dependencies:
+  module:
+    - atm
+_core:
+  default_config_hash: E8GUHq5WP912EDTCIJdcWXFPj81hepiuFGEnIad-zjI
+id: atm_save_action
+label: 'Save atms'
+type: atm
+plugin: 'entity:save_action:atm'
+configuration: {  }

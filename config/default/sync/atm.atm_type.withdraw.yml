@@ -1,0 +1,6 @@
+uuid: d952c23a-6c3a-4d29-8cb5-c8a42f8acba6
+langcode: pl
+status: true
+dependencies: {  }
+id: withdraw
+label: Bankomat

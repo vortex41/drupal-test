@@ -1,0 +1,5 @@
+name: 'Atm'
+type: module
+description: 'Sample ATM module'
+package: 'custom'
+core_version_requirement: ^10

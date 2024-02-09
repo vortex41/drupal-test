@@ -1,0 +1,17 @@
+atm.type_add:
+  title: 'Add atm type'
+  route_name: entity.atm_type.add_form
+  appears_on:
+    - entity.atm_type.collection
+
+atm.add_page:
+  title: 'Add atm'
+  route_name: entity.atm.add_page
+  appears_on:
+    - entity.atm.collection
+
+atm.import_atms:
+  title: 'Import atms'
+  route_name: atm.atm_import
+  appears_on:
+    - entity.atm.collection

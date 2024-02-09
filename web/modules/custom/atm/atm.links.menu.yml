@@ -1,0 +1,11 @@
+entity.atm_type.collection:
+  title: 'Atm types'
+  description: 'Manage and CRUD actions on Atm type.'
+  parent: system.admin_structure
+  route_name: entity.atm_type.collection
+
+entity.atm.collection:
+  title: 'Atms'
+  description: 'List of atms.'
+  route_name: entity.atm.collection
+  parent: system.admin_content

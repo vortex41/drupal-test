@@ -1,0 +1,7 @@
+atm.atm_import:
+  path: '/admin/content/atm/import'
+  defaults:
+    _title: 'Atm Import'
+    _form: 'Drupal\atm\Form\AtmImportForm'
+  requirements:
+    _permission: 'import atm'
