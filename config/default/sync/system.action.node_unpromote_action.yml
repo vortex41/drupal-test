@@ -1,0 +1,13 @@
+uuid: 2afa8651-1ef7-4314-8d8d-cfff45d76203
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: JBptjnfuOMtsdKygklXxoOgeOCTMtQxlkymjnnj-cC0
+id: node_unpromote_action
+label: 'Usuń zawartość ze strony głównej'
+type: node
+plugin: node_unpromote_action
+configuration: {  }

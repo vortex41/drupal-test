@@ -1,0 +1,10 @@
+uuid: 92d2f61d-89c7-42d9-a75d-fcdd449f4453
+langcode: pl
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7klS5IWXrwzVaPpYZFAs6wcx8U2FF1X73OfrtTsvuvE
+id: fallback
+label: 'Awaryjny format zapisu daty'
+locked: true
+pattern: 'D, m/d/Y - H:i'

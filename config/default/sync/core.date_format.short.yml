@@ -1,0 +1,10 @@
+uuid: 66d82b2f-9adc-4efd-a4f2-90f766311098
+langcode: pl
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AlzeyytA8InBgxIG9H2UDJYs3CG98Zj6yRsDKmlbZwA
+id: short
+label: 'Domyślna data krótka'
+locked: false
+pattern: 'm/d/Y - H:i'
